@@ -52,7 +52,7 @@ p{
     padding: 15px;
 }
 
-img{
+.img{
     padding-inline: 15px;
     display: block;
     box-shadow: 0 0 5px black;
